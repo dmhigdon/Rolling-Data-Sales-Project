@@ -1,0 +1,11 @@
+Rolling Sales Brooklyn Data Summary
+
+
+
+
+There are two primary aspects of this data which jump out to me immediately. The first is that there are significant outliers in this data, both in terms of square feet and sale price. As a result we plotted the homes with the log10 of sq. ft on the x-axis and log10 of sale price on the y-axis so that we could better understand the distribution.
+
+
+
+
+The second thing that stands out is that the data is positively correlated. This is not a surprising result, as we would expect sale price to increase as gross square feet increases, but it is still important to note that the relationship holds in this data.
